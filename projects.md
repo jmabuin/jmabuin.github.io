@@ -10,9 +10,9 @@ In this section you can find information about projects I have been working on. 
 
 ### Using Big Data technologies to perform Genomics Alignment ###
 
-In this project we use the well known alignment software BWA to perform genomics alignment within a Hadoop cluster. The resulting software, BigBWA, can be found at https://github.com/citiususc/BigBWA.
+In this project we use the well known alignment software [BWA](https://github.com/lh3/bwa){:target="_blank"} to perform genomics alignment within a Hadoop cluster. The resulting software is [BigBWA](https://github.com/citiususc/BigBWA){:target="_blank"}.
 
-Results probe that, using BigBWA in a Hadoop cluster in AWS with 32 cores, the user can have a speed up of 26.7.
+Results probe that, using **BigBWA** in a Hadoop cluster in [AWS](https://aws.amazon.com/){:target="_blank"} with 32 cores, the user can have a speed up of **26.7x**.
 
 ### High Performance Computing for Natural Language Processing ###
 
@@ -21,7 +21,7 @@ In this project we used Big Data technologies (Hadoop) and cloud computing to ca
 * Development of Java, Python and Perl programs within the MapReduce programming model.
 * Performance analysis of different Natural Language Processing  tools for its use with Big Data technologies
 
-From this project we obtain the software Perldoop (https://github.com/citiususc/perldoop). This software allow us to translate Perl code into Java to run it into a Hadoop cluster, but with some restrictions. You can find more information and help in the GitHub project page.
+From this project we obtain the software [Perldoop](https://github.com/citiususc/perldoop){:target="_blank"}. This software allow us to translate Perl code into Java to run it into a Hadoop cluster, but with some restrictions. You can find more information and help in the GitHub project page.
 
 ### GANESO (Gas Networks Simulator and Optimizator) ###
 
