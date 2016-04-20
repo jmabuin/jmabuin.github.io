@@ -21,7 +21,7 @@ In this project we used Big Data technologies (Hadoop) and cloud computing to ca
 * Development of Java, Python and Perl programs within the MapReduce programming model.
 * Performance analysis of different Natural Language Processing  tools for its use with Big Data technologies
 
-From this project we obtain the software [Perldoop](https://github.com/citiususc/perldoop){:target="_blank"}. This software allow us to translate Perl code into Java to run it into a Hadoop cluster, but with some restrictions. You can find more information and help in the GitHub project page.
+From this project we obtain the software [Perldoop](https://github.com/citiususc/perldoop){:target="_blank"}. This software allow us to translate Perl code into Java to run it into a Hadoop cluster, but with some restrictions. You can find more information and help in the [project page](https://proxectos.citius.usc.es/hpcpln/){:target="_blank"}.
 
 ### GANESO (Gas Networks Simulator and Optimizator) ###
 
