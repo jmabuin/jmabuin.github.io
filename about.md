@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I was born in Rianxo (Galicia) in 1982. I have a Bachelor Degree in Computer Science at the University of Santiago de Compostela, and a Master Degree in High Performance Computing, also at the University of Santiago de Compostela.
+I was born in Rianxo (Galicia) in 1982. I have a Bachelor Degree in Computer Science at the [University of Santiago de Compostela](http://www.usc.es), and a Master Degree in High Performance Computing, also at the [University of Santiago de Compostela](http://www.usc.es).
 
-Nowadays I am working at the Centro de Investigación en Tecnoloxías da Información (CiTIUS) as a researcher and Phd student. My research is based in:
+Nowadays I am working at the Centro de Investigación en Tecnoloxías da Información [(CiTIUS)](http://citius.usc.es) as a researcher and Phd student. My research is based in:
 
 * Big Data applications performance with Hadoop and Spark.
 * High Performance Computing applied to Natural Language Processing.
@@ -29,14 +29,4 @@ Previously I worked at the Galicia Supercomputing Centre in the e-Learning depar
 * Managing videoconferences through BigBlueButton
 * Scripts programming using Python and Bash
 
-You can find more information about in the Projects section
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find more information about in the Projects section.
