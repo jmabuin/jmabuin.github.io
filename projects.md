@@ -25,7 +25,7 @@ From this project we obtain the software [Perldoop](https://github.com/citiususc
 
 ### GANESO (Gas Networks Simulator and Optimizator) ###
 
-GANESO is a software to simulate and optimize the gas transport in gas pipelines by solving numeric equations asociated to this kind of problems.
+[GANESO](http://www.reganosa.com/es/software-ganeso){:target="_blank"} is a software to simulate and optimize the gas transport in gas pipelines by solving numeric equations asociated to this kind of problems.
 
 This software is developed by using Fortran language and Pyhton for the graphic interface. In this graphic interface, the open source Quantum Gis has been used, because it allows to add Pyhton plugins.
 
@@ -35,16 +35,16 @@ My main tasks in this project are:
 * Development of some program modules using Fortran
 * Implementation of the program in cloud as SaaS (Software as a Service)
 
-### Improving locality and affinity of the sparse matrix – vector product by using Morton representation ###
+### Improving locality and affinity of the sparse matrix-vector product by using Morton representation ###
 
-The optimization of the sparse matrix – product is nowadays a challenge, specially in multicore systems, because of its irregular accesses to memory. There are several studies in which various representations and techniques are analyzed. One of such representations is the Morton representation, that prooved to have advantages in situations where locality and affinity are main aspects.
+The optimization of the sparse matrix-vector product is nowadays a challenge, specially in multicore systems, because of its irregular accesses to memory. There are several studies in which various representations and techniques are analyzed. One of such representations is the Morton representation, that prooved to have advantages in situations where locality and affinity are main aspects.
 
-In this project, results between classic representations and Morton are compared in terms of execution time and cache access. The implemented program is developed in C and using the PAPI library to measure counters.
+In this project, results between classic representations and Morton are compared in terms of execution time and cache access. The implemented program is developed in C and using the [PAPI](http://icl.cs.utk.edu/papi/){:target="_blank"} library to measure counters.
 
 ### Recognition of people from different points of view within a multiple cameras environment ###
 
 Final project for my engineering degree in Computer Science
-This project belongs to a bigger project named “Multi-agent system for fast development of a guide robot in unknown environments” carried out by Adrián Canedo, Víctor Álvarez and Xosé Manuel Pardo López, members of the CiTIUS. My part in this project consists in know how cameras are located within an indoor environment. For doing this I used people recognition features from OpenCV libraries, an agent detects people in the camera images and, by detecting the same people in another cameras, I can know if these cameras are neighbors or not.
+This project belongs to a bigger project named “Multi-agent system for fast development of a guide robot in unknown environments” carried out by [Adrián Canedo](https://acanedorodriguez.wordpress.com/){:target="_blank"}, Víctor Álvarez and [Xosé Manuel Pardo López](https://persoal.citius.usc.es/xose.pardo/){:target="_blank"}, members of the CiTIUS. My part in this project consists in know how cameras are located within an indoor environment. For doing this I used people recognition features from [OpenCV](http://opencv.org/){:target="_blank"} libraries, an agent detects people in the camera images and, by detecting the same people in another cameras, I can know if these cameras are neighbors or not.
 
 With this information about cameras being neighbors or not, robots from the other project can be guide due to situations detection within this indoor environment by knowing the cameras positions.
 
