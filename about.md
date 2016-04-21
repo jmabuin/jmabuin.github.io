@@ -12,7 +12,7 @@ Nowadays I am working at the Centro de Investigación en Tecnoloxías da Informa
 * High Performance Computing applied to Natural Language Processing.
 * Genomics alignment by using Big Data and HPC technologies.
 
-Previously, at the Applied Mathematics Department, also at ther University of Santiago de Compostela, my duties were:
+Previously, at the Applied Mathematics Department, also at the University of Santiago de Compostela, my duties were:
 
 * Development of gas networks simulator and optimizator by using Fortran language.
 * In charge of the development of a graphical interface for its use with the simulator and optimizator tool based in the open source project [Quantum Gis](http://www.qgis.org){:target="_blank"}. This interface is made with Pyhton and Qt (PyQt).
