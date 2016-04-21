@@ -6,6 +6,8 @@ permalink: /projects/
 
 In this section you can find information about projects I have been working on. It is divided in two subsections, [Professional Projects](#professional) and [Personal Projects](#personal).
 
+---
+
 ## <a name="professional"></a>Professional Projects ##
 
 ### Using Big Data technologies to perform Genomics Alignment ###
@@ -47,6 +49,8 @@ Final project for my engineering degree in Computer Science
 This project belongs to a bigger project named “Multi-agent system for fast development of a guide robot in unknown environments” carried out by [Adrián Canedo](https://acanedorodriguez.wordpress.com/){:target="_blank"}, Víctor Álvarez and [Xosé Manuel Pardo López](https://persoal.citius.usc.es/xose.pardo/){:target="_blank"}, members of the CiTIUS. My part in this project consists in know how cameras are located within an indoor environment. For doing this I used people recognition features from [OpenCV](http://opencv.org/){:target="_blank"} libraries, an agent detects people in the camera images and, by detecting the same people in another cameras, I can know if these cameras are neighbors or not.
 
 With this information about cameras being neighbors or not, robots from the other project can be guide due to situations detection within this indoor environment by knowing the cameras positions.
+
+---
 
 ## <a name="personal"></a>Personal Projects ##
 
