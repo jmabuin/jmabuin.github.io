@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Degree in Computer Engineering ##
+## Degree in Computer Engineering (USC)##
 
 ### Academic Year 2015/2016 ###
 
