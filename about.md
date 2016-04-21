@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I was born in [Rianxo](https://goo.gl/maps/yiDcWZsRNyv){:target="_blank"} (Galicia) in 1982. I have a Bachelor Degree in Computer Science at the [University of Santiago de Compostela](http://www.usc.es){:target="_blank"}, and a Master Degree in High Performance Computing, also at this university.
+I was born in <i class="fa fa-map-marker" aria-hidden="true"></i>[Rianxo](https://goo.gl/maps/yiDcWZsRNyv){:target="_blank"} (Galicia) in 1982. I have a Bachelor Degree in Computer Science at the [University of Santiago de Compostela](http://www.usc.es){:target="_blank"}, and a Master Degree in High Performance Computing, also at this university.
 
 Nowadays I am working at the Centro de Investigación en Tecnoloxías da Información [(CiTIUS)](http://citius.usc.es){:target="_blank"} as a researcher and Phd. student. My research is based in:
 
