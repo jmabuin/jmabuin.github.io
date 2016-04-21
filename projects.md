@@ -49,3 +49,31 @@ This project belongs to a bigger project named “Multi-agent system for fast de
 With this information about cameras being neighbors or not, robots from the other project can be guide due to situations detection within this indoor environment by knowing the cameras positions.
 
 ## <a name="personal"></a>Personal Projects ##
+
+### CPM (Cluster Processes Monitor) ###
+
+[CPM](https://github.com/jmabuin/CPM){:target="_blank"}, or Cluster Processes Monitor, is a tool to measure the performance of job processes inside a supercomputing cluster.
+
+Typically, in a computing cluster, the task of monitorize a parallel job and get statictics, such as CPU consumption, used memory or other kind of data, is a tedious job that implies visualize large logs or modify the application source code. There are some solutions that monitorize all the cluster, such as [Nagios](https://www.nagios.org/){:target="_blank"} or [Zabbix](http://www.zabbix.com/){:target="_blank"}, but they monitorize the nodes total resources, and not per process of a launched job. **CPM** allows the user to monitorize data from individual processes in real time and get plots and statictics from them in a very easy way. It is composed by three programs that communicate among each other and work togheter across the network.
+
+[CPM](https://github.com/jmabuin/CPM){:target="_blank"} is developed in [C++](https://en.wikipedia.org/wiki/C%2B%2B){:target="_blank"} using the [Qt](https://en.wikipedia.org/wiki/Qt_%28software%29){:target="_blank"} libraries.
+
+### Matrix Market Suite ###
+
+[Matrix Market Suite](https://github.com/jmabuin/matrix-market-suite){:target="_blank"} is a tool that creates and operates over matrices with the [Matrix Market](math.nist.gov/MatrixMarket/){:target="_blank"}  format.
+
+This tool is created only for educational propossal. It is developed in [C](https://en.wikipedia.org/wiki/C_%28programming_language%29){:target="_blank"} language using the [CBLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms){:target="_blank"} library.
+
+Functionalities:
+
+- Create dense symmetric matrices.
+- Create dense vectors.
+- Dense matrix-vector multiplication.
+- Solve linear systems using the [Conjugate Gradient](https://en.wikipedia.org/wiki/Conjugate_gradient_method){:target="_blank"} method.
+- Parallelization of the Conjugate Gradient method and the dense matrix-vector multiplication by using [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface){:target="_blank"}.
+
+To do functionalities:
+
+- Parallelization of the Conjugate Gradient method and the dense matrix-vector multiplication by using [CUDA](https://en.wikipedia.org/wiki/CUDA){:target="_blank"}.
+- Implementation of new linear systems solvers (Jacobi, etc,...).
+- Implementation of operations for sparse matrices.
