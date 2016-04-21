@@ -6,7 +6,7 @@ permalink: /about/
 
 I was born in [Rianxo](https://goo.gl/maps/yiDcWZsRNyv){:target="_blank"} (Galicia) in 1982. I have a Bachelor Degree in Computer Science at the [University of Santiago de Compostela](http://www.usc.es){:target="_blank"}, and a Master Degree in High Performance Computing, also at this university.
 
-Nowadays I am working at the Centro de Investigación en Tecnoloxías da Información [(CiTIUS)](http://citius.usc.es){:target="_blank"} as a researcher and Phd student. My research is based in:
+Nowadays I am working at the Centro de Investigación en Tecnoloxías da Información [(CiTIUS)](http://citius.usc.es){:target="_blank"} as a researcher and Phd. student. My research is based in:
 
 * Big Data applications performance with Hadoop and Spark.
 * High Performance Computing applied to Natural Language Processing.
