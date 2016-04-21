@@ -7,13 +7,14 @@
 
 # Site settings
 title: José Manuel Abuín Mosquera
-#email: your-email@domain.com
+email: josemanuel.abuin@usc.es
 description: > # this means to ignore newlines until "baseurl:"
   This is the personal web site of José M. Abuín.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jmabuin.github.io/" # the base hostname & protocol for your site
-#twitter_username: ChemaRianxo
+twitter_username: ChemaRianxo
 github_username:  jmabuin
+linkedin_username: josemanuelabuinmosquera
 
 # Build settings
 markdown: kramdown
