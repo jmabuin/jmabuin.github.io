@@ -70,14 +70,17 @@ This tool is created only for educational propossal. It is developed in [C](http
 
 Functionalities:
 
-- Create dense symmetric matrices.
-- Create dense vectors.
-- Dense matrix-vector multiplication.
-- Solve linear systems using the [Conjugate Gradient](https://en.wikipedia.org/wiki/Conjugate_gradient_method){:target="_blank"} method.
-- Parallelization of the Conjugate Gradient method and the dense matrix-vector multiplication by using [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface){:target="_blank"}.
+- <i class="fa fa-check-square-o" aria-hidden="true"></i> Create dense symmetric matrices.
+- <i class="fa fa-check-square-o" aria-hidden="true"></i> Create dense vectors.
+- <i class="fa fa-check-square-o" aria-hidden="true"></i> Dense matrix-vector multiplication.
+- <i class="fa fa-check-square-o" aria-hidden="true"></i> Solve linear systems using the [Conjugate Gradient](https://en.wikipedia.org/wiki/Conjugate_gradient_method){:target="_blank"} method.
+- <i class="fa fa-check-square-o" aria-hidden="true"></i> Parallelization of the Conjugate Gradient method and the dense matrix-vector multiplication by using [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface){:target="_blank"}.
 
 To do functionalities:
 
-- Parallelization of the Conjugate Gradient method and the dense matrix-vector multiplication by using [CUDA](https://en.wikipedia.org/wiki/CUDA){:target="_blank"}.
-- Implementation of new linear systems solvers (Jacobi, etc,...).
-- Implementation of operations for sparse matrices.
+- <i class="fa fa-square-o" aria-hidden="true"></i>
+ Parallelization of the Conjugate Gradient method and the dense matrix-vector multiplication by using [CUDA](https://en.wikipedia.org/wiki/CUDA){:target="_blank"}.
+- <i class="fa fa-square-o" aria-hidden="true"></i>
+ Implementation of new linear systems solvers (Jacobi, etc,...).
+- <i class="fa fa-square-o" aria-hidden="true"></i>
+ Implementation of operations for sparse matrices.
