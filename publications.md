@@ -10,6 +10,11 @@ Publications are divided in [Journals](#journals) and [Conferences](#conferences
 
 ## <a name="journals"></a>Journals ##
 
+
+* _SparkBWA: Speeding Up the Alignment of High-Throughput DNA Sequencing Data_ [(Online article)](http://dx.doi.org/10.1371/journal.pone.0155461){target="_blank"}  
+[José M. Abuín](http://jmabuin.github.io/), [Juan C. Pichel](http://www.ac.usc.es/pag_personal/jcpichel/){:target="_blank"}, [Tomás F. Pena](https://citius.usc.es/equipo/persoal-adscrito/tomas-fernandez-pena){:target="_blank"} and [Jorge Amigo](https://es.linkedin.com/in/amigolechuga){:target="_blank"}.  
+PLoS ONE, Vol. 11, Number 5, pages 1-21, 2016.
+
 * _BigBWA: Approaching the Burrows-Wheeler Aligner to Big Data Technologies._ [(Online article)](http://dx.doi.org/10.1093/bioinformatics/btv506){:target="_blank"}  
 [José M. Abuín](http://jmabuin.github.io/), [Juan C. Pichel](http://www.ac.usc.es/pag_personal/jcpichel/){:target="_blank"}, [Tomás F. Pena](https://citius.usc.es/equipo/persoal-adscrito/tomas-fernandez-pena){:target="_blank"} and [Jorge Amigo](https://es.linkedin.com/in/amigolechuga){:target="_blank"}.  
 Bioinformatics, Vol. 31, Issue 24, pages 4003-4005, 2015.
