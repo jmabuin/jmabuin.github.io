@@ -12,9 +12,9 @@ In this section you can find information about projects I have been working on. 
 
 ### Using Big Data technologies to perform Genomics Alignment ###
 
-In this project we use the well known alignment software [BWA](https://github.com/lh3/bwa){:target="_blank"} to perform genomics alignment within a Hadoop cluster. The resulting software is [BigBWA](https://github.com/citiususc/BigBWA){:target="_blank"}.
+In this project we use the well known alignment software [BWA](https://github.com/lh3/bwa){:target="_blank"} to perform genomics alignment within a Hadoop and Spark cluster. The resulting software products are [BigBWA](https://github.com/citiususc/BigBWA){:target="_blank"} and [SparkBWA](https://github.com/citiususc/SparkBWA){:target="_blank"}.
 
-Results probe that, using **BigBWA** in a Hadoop cluster in [AWS](https://aws.amazon.com/){:target="_blank"} with 32 cores, the user can have a speed up of **26.7x**.
+Results probe that, using **BigBWA** in a Hadoop cluster in [AWS](https://aws.amazon.com/){:target="_blank"} with 32 cores, the user can have a speed up of **26.7x**. On the other hand, using **SparkBWA** in a YARN/Spark cluster with 128 executors, the obtained speed-up is **85.6x**.
 
 ### High Performance Computing for Natural Language Processing ###
 
