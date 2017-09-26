@@ -11,7 +11,7 @@ Publications are divided in [Journals](#journals) and [Conferences](#conferences
 ## <a name="journals"></a>Journals ##
 
 * _PASTASpark: multiple sequence alignment meets Big Data_ [(Online article)](http://dx.doi.org/10.1093/bioinformatics/btx354){:target="_blank"}
-[José M. Abuín](http://jmabuin.github.io/), [Tomás F. Pena](https://citius.usc.es/equipo/persoal-adscrito/tomas-fernandez-pena){:target="_blank"} and [Juan C. Pichel](http://www.ac.usc.es/pag_personal/jcpichel/){:target="_blank"}.
+[José M. Abuín](http://jmabuin.github.io/), [Tomás F. Pena](https://citius.usc.es/equipo/persoal-adscrito/tomas-fernandez-pena){:target="_blank"} and [Juan C. Pichel](http://www.ac.usc.es/pag_personal/jcpichel/){:target="_blank"}.  
 Bioinformatics, Vol. 33, Issue 18, pages 2948-2950, 2017.
 
 * _SparkBWA: Speeding Up the Alignment of High-Throughput DNA Sequencing Data_ [(Online article)](http://dx.doi.org/10.1371/journal.pone.0155461){:target="_blank"}  
