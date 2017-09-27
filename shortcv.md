@@ -6,6 +6,8 @@ permalink: /shortcv/
 
 ## Career ##
 
+---
+
 * **DXC Technology**  
 _Data Scientist & Analytics_  
 September 2017 - Nowadays  
@@ -23,11 +25,12 @@ _Projects technician & systems administrator_
 January 2012 - February 2013, (1 year and 1 month)  
 February 2010 - September 2011, (1 year and 7 months)  
 April 2008 - November 2009, (1 year and 7 months)  
-Total time: 4 years and 3 months
+Total time: 4 years and 3 months  
+
 ---
 
 ## Education ##
-* **Phd. (Doctor of Philosophy) Computer Science. **  
+* **Phd. (Doctor of Philosophy) Computer Science.**  
 University of Santiago de Compostela.  
 Dissertation: _Big Data meets High Performance Computing: Genomics and Natural Language Processing as case studies_  
 Date: November 2017 (Expected).
