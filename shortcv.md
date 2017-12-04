@@ -9,7 +9,7 @@ permalink: /shortcv/
 ---
 
 * **DXC Technology**  
-_Data Scientist & Analytics_  
+_HPC Data Scientist_  
 September 2017 - Nowadays  
 
 * **CiTIUS - University of Santiago de Compostela**  
@@ -33,7 +33,7 @@ Total time: 4 years and 3 months
 * **Phd. (Doctor of Philosophy) Computer Science.**  
 University of Santiago de Compostela.  
 Dissertation: _Big Data meets High Performance Computing: Genomics and Natural Language Processing as case studies_  
-Date: November 2017 (Expected).
+Date: November 2017
 
 * **Master's Degree in High Performance Computing**  
 University of Santiago de Compostela.  
