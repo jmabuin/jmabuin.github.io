@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-I was born in <i class="fa fa-map-marker" aria-hidden="true"></i>[Rianxo](https://goo.gl/maps/yiDcWZsRNyv){:target="_blank"} (Galicia) in 1982. I have a Bachelor Degree in Computer Science at the [University of Santiago de Compostela](http://www.usc.es){:target="_blank"}, and a Master Degree in High Performance Computing, also at this university.
+I was born in <i class="fa fa-map-marker" aria-hidden="true"></i>[Rianxo](https://goo.gl/maps/yiDcWZsRNyv){:target="_blank"} (Galicia) in 1982. I have a PhD in Computer Science, MSc in High Performance Computing and BSc in Computer Science, all of them at the [University of Santiago de Compostela](http://www.usc.es){:target="_blank"}.
 
-Nowadays I work as Data Scientist at [DXC Technology](http://www.dxc.technology/){:target="_blank"}, at the <i class="fa fa-map-marker" aria-hidden="true"></i>[Santiago de Compostela](https://goo.gl/maps/xuJAXSbTsss){:target="_blank"} office.
+Nowadays I work as HPC Data Scientist at [DXC Technology](http://www.dxc.technology/){:target="_blank"}, at the <i class="fa fa-map-marker" aria-hidden="true"></i>[Santiago de Compostela](https://goo.gl/maps/xuJAXSbTsss){:target="_blank"} office.
 
 My previous experience is:
 ### Centro de Investigación en Tecnoloxías da Información [(CiTIUS)](http://citius.usc.es){:target="_blank"} ###
-Researcher and Phd. student. My research is based in:
+Researcher and PhD student. My research is based in:
 
 * Big Data applications performance with Hadoop and Spark.
-* High Performance Computing applied to Natural Language Processing.
+* High Performance Computing applied to Natural Language Processing and Genomics.
 * Genomics alignment by using Big Data and HPC technologies.
 
 ### Applied Mathematics Department, University of Santiago de Compostela ###
