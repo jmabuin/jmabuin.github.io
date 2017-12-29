@@ -30,16 +30,17 @@ Total time: 4 years and 3 months
 ---
 
 ## Education ##
-* **Phd. (Doctor of Philosophy) Computer Science.**  
+* **PhD (Doctor of Philosophy) Computer Science.**  
 University of Santiago de Compostela.  
-Dissertation: _Big Data meets High Performance Computing: Genomics and Natural Language Processing as case studies_  
+Dissertation: _[Big Data meets High Performance Computing: Genomics and Natural Language Processing as case studies](https://github.com/jmabuin/jmabuin.github.io/files/PHd_Dissertation_JMAbuin.pdf){:target="_blank"}_  
 Date: November 2017
+Grade: Sobresaliente Cum Laude
 
-* **Master's Degree in High Performance Computing**  
+* **MSc High Performance Computing**  
 University of Santiago de Compostela.  
 Date: July 2013
 
-* **Bachelor Degree in Computer Science**  
+* **BSc Computer Science**  
 University of Santiago de Compostela.  
 Date: July 2012
 
