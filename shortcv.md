@@ -8,7 +8,7 @@ permalink: /shortcv/
 
 ---
 
-* **ITMATI**
+* **ITMATI**  
 _Post-Doctoral researcher_
 February 2018 - Nowadays
 
