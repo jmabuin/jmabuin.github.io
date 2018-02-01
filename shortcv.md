@@ -8,9 +8,13 @@ permalink: /shortcv/
 
 ---
 
+* **ITMATI**
+_Post-Doctoral researcher_
+February 2018 - Nowadays
+
 * **DXC Technology**  
 _HPC Data Scientist_  
-September 2017 - Nowadays  
+September 2017 - January 2018, (5 months)  
 
 * **CiTIUS - University of Santiago de Compostela**  
 _Researcher in Big Data and High Performance Computing_  

@@ -6,9 +6,14 @@ permalink: /about/
 
 I was born in <i class="fa fa-map-marker" aria-hidden="true"></i>[Rianxo](https://goo.gl/maps/yiDcWZsRNyv){:target="_blank"} (Galicia) in 1982. I have a PhD in Computer Science, MSc in High Performance Computing and BSc in Computer Science, all of them at the [University of Santiago de Compostela](http://www.usc.es){:target="_blank"}.
 
-Nowadays I work as HPC Data Scientist at [DXC Technology](http://www.dxc.technology/){:target="_blank"}, at the <i class="fa fa-map-marker" aria-hidden="true"></i>[Santiago de Compostela](https://goo.gl/maps/xuJAXSbTsss){:target="_blank"} office.
+Nowadays I work as Post-Doctoral researcher at [ITMATI](http://www.itmati.com/){:target="_blank"}, Technological Institute for Industrial Mathematics.
 
 My previous experience is:
+### [DXC Technology](http://www.dxc.technology/){:target="_blank"} ###
+HPC Data Scientist.
+
+* Development of Big Data software to perform ETL processes by using Apache Spark.
+
 ### Centro de Investigación en Tecnoloxías da Información [(CiTIUS)](http://citius.usc.es){:target="_blank"} ###
 Researcher and PhD student. My research is based in:
 
