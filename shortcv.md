@@ -7,10 +7,13 @@ permalink: /shortcv/
 ## Career ##
 
 ---
+* **CiTIUS - University of Santiago de Compostela, and Polytechnic Institute of Cávado and Ave**  
+_Post-Doctoral Researcher in Big Data and High Performance Computing for Genomics Applications_  
+October 2018 - Nowadays
 
 * **ITMATI**  
 _Post-Doctoral researcher_
-February 2018 - Nowadays
+February 2018 - October 2018, (9 months)
 
 * **DXC Technology**  
 _HPC Data Scientist_  
