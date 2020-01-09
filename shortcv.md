@@ -7,12 +7,16 @@ permalink: /shortcv/
 ## Career ##
 
 ---
+* **Mestrelab Research S.L. and Bruker Daltonics SPR**  
+_Scientific Software Developer for Surface Plasmon Resonance Analysis_  
+November 2019 - Nowadays
+
 * **CiTIUS - University of Santiago de Compostela, and Polytechnic Institute of Cávado and Ave**  
 _Post-Doctoral Researcher in Big Data and High Performance Computing for Genomics Applications_  
-October 2018 - Nowadays
+October 2018 - November 2019, (1 year)
 
 * **ITMATI**  
-_Post-Doctoral researcher_
+_Post-Doctoral researcher_  
 February 2018 - October 2018, (9 months)
 
 * **DXC Technology**  
