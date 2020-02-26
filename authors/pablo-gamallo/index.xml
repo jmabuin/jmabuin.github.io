@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pablo Gamallo | jmabuin personal web page</title>
+    <title>Pablo Gamallo | Jose M. Abuin web page</title>
     <link>https://jmabuin.github.io/authors/pablo-gamallo/</link>
       <atom:link href="https://jmabuin.github.io/authors/pablo-gamallo/index.xml" rel="self" type="application/rss+xml" />
     <description>Pablo Gamallo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`©` `2020` José M. Abuín</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Pablo Gamallo</title>

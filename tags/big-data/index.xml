@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Big Data | jmabuin personal web page</title>
+    <title>Big Data | Jose M. Abuin web page</title>
     <link>https://jmabuin.github.io/tags/big-data/</link>
       <atom:link href="https://jmabuin.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Big Data</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`©` `2020` José M. Abuín</copyright><lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Big Data</title>
