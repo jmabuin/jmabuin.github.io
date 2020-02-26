@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alignment | jmabuin personal web page</title>
+    <link>https://jmabuin.github.io/tags/alignment/</link>
+      <atom:link href="https://jmabuin.github.io/tags/alignment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alignment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`©` `2020` José M. Abuín</copyright><lastBuildDate>Mon, 16 May 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alignment</title>
+      <link>https://jmabuin.github.io/tags/alignment/</link>
+    </image>
+    
+    <item>
+      <title>SparkBWA: Speeding Up the Alignment of High-Throughput DNA Sequencing Data</title>
+      <link>https://jmabuin.github.io/publication/16plo/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/publication/16plo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BigBWA: Approaching the Burrows-Wheeler Aligner to Big Data Technologies</title>
+      <link>https://jmabuin.github.io/publication/15bio/</link>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/publication/15bio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spark | jmabuin personal web page</title>
+    <link>https://jmabuin.github.io/tags/spark/</link>
+      <atom:link href="https://jmabuin.github.io/tags/spark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`©` `2020` José M. Abuín</copyright><lastBuildDate>Mon, 16 May 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Spark</title>
+      <link>https://jmabuin.github.io/tags/spark/</link>
+    </image>
+    
+    <item>
+      <title>SparkBWA: Speeding Up the Alignment of High-Throughput DNA Sequencing Data</title>
+      <link>https://jmabuin.github.io/publication/16plo/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/publication/16plo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

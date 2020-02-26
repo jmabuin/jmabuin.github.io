@@ -5,12 +5,60 @@
     <link>https://jmabuin.github.io/authors/</link>
       <atom:link href="https://jmabuin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`©` `2020` José M. Abuín</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`©` `2020` José M. Abuín</copyright><lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://jmabuin.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>José M. Abuín</title>
+      <link>https://jmabuin.github.io/authors/jose-m.-abuin/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/authors/jose-m.-abuin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan C. Pichel</title>
+      <link>https://jmabuin.github.io/authors/juan-c.-pichel/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/authors/juan-c.-pichel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomás F. Pena</title>
+      <link>https://jmabuin.github.io/authors/tomas-f.-pena/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/authors/tomas-f.-pena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge Amigo</title>
+      <link>https://jmabuin.github.io/authors/jorge-amigo/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/authors/jorge-amigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcos García</title>
+      <link>https://jmabuin.github.io/authors/marcos-garcia/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
+      <guid>https://jmabuin.github.io/authors/marcos-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Gamallo</title>
+      <link>https://jmabuin.github.io/authors/pablo-gamallo/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
+      <guid>https://jmabuin.github.io/authors/pablo-gamallo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
