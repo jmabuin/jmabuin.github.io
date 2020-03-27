@@ -5,12 +5,20 @@
     <link>https://jmabuin.github.io/publication_types/1/</link>
       <atom:link href="https://jmabuin.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://jmabuin.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Perldoop2: a Big Data-oriented source-to-source Perl-Java compiler</title>
+      <link>https://jmabuin.github.io/publication/17bd/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>https://jmabuin.github.io/publication/17bd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perldoop: Efficient Execution of Perl Scripts on Hadoop Clusters</title>
