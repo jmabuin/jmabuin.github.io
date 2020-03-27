@@ -5,73 +5,12 @@
     <link>https://jmabuin.github.io/authors/</link>
       <atom:link href="https://jmabuin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://jmabuin.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title>José M. Abuín</title>
-      <link>https://jmabuin.github.io/authors/jose-m.-abuin/</link>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0200</pubDate>
-      <guid>https://jmabuin.github.io/authors/jose-m.-abuin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan C. Pichel</title>
-      <link>https://jmabuin.github.io/authors/juan-c.-pichel/</link>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0200</pubDate>
-      <guid>https://jmabuin.github.io/authors/juan-c.-pichel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tomás F. Pena</title>
-      <link>https://jmabuin.github.io/authors/tomas-f.-pena/</link>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0200</pubDate>
-      <guid>https://jmabuin.github.io/authors/tomas-f.-pena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jorge Amigo</title>
-      <link>https://jmabuin.github.io/authors/jorge-amigo/</link>
-      <pubDate>Mon, 16 May 2016 00:00:00 +0200</pubDate>
-      <guid>https://jmabuin.github.io/authors/jorge-amigo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcos García</title>
-      <link>https://jmabuin.github.io/authors/marcos-garcia/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
-      <guid>https://jmabuin.github.io/authors/marcos-garcia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pablo Gamallo</title>
-      <link>https://jmabuin.github.io/authors/pablo-gamallo/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
-      <guid>https://jmabuin.github.io/authors/pablo-gamallo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jmabuin.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jmabuin.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Thanks for your visit!&lt;/p&gt;
-
-&lt;p&gt;My name is José Manuel Abuín Mosquera (Rianxo, 1982). I am a software developer, computer engineer and researcher. Nowadays I work as Scientific Software Developer at Mestrelab Research S.L. and Bruker Daltonics SPR.&lt;/p&gt;
-
-&lt;p&gt;My main research interests are focused on the application of High Performance Computing and parallel programming to solve scientific problems, mainly in genomics and chemistry.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

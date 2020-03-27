@@ -5,12 +5,20 @@
     <link>https://jmabuin.github.io/publication/</link>
       <atom:link href="https://jmabuin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://jmabuin.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Big Data Approach to Metagenomics for All-Food-Sequencing</title>
+      <link>https://jmabuin.github.io/publication/20bmc/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://jmabuin.github.io/publication/20bmc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PASTASpark: multiple sequence alignment meets Big Data</title>
