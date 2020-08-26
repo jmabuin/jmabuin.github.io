@@ -5,12 +5,20 @@
     <link>https://jmabuin.github.io/publication/</link>
       <atom:link href="https://jmabuin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://jmabuin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://jmabuin.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>VeryFastTree: speeding up the estimation of phylogenies for large alignments through parallelization and vectorization strategies</title>
+      <link>https://jmabuin.github.io/publication/20vft/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/publication/20vft/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Big Data Approach to Metagenomics for All-Food-Sequencing</title>

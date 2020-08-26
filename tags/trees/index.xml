@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cesar Piñeiro | Jose M. Abuin web page</title>
-    <link>https://jmabuin.github.io/authors/cesar-pineiro/</link>
-      <atom:link href="https://jmabuin.github.io/authors/cesar-pineiro/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cesar Piñeiro</description>
+    <title>trees | Jose M. Abuin web page</title>
+    <link>https://jmabuin.github.io/tags/trees/</link>
+      <atom:link href="https://jmabuin.github.io/tags/trees/index.xml" rel="self" type="application/rss+xml" />
+    <description>trees</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 José M. Abuín</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://jmabuin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Cesar Piñeiro</title>
-      <link>https://jmabuin.github.io/authors/cesar-pineiro/</link>
+      <title>trees</title>
+      <link>https://jmabuin.github.io/tags/trees/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://jmabuin.github.io/publication/20vft/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
       <guid>https://jmabuin.github.io/publication/20vft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perldoop2: a Big Data-oriented source-to-source Perl-Java compiler</title>
-      <link>https://jmabuin.github.io/publication/17bd/</link>
-      <pubDate>Fri, 10 Nov 2017 00:00:00 +0100</pubDate>
-      <guid>https://jmabuin.github.io/publication/17bd/</guid>
       <description></description>
     </item>
     
