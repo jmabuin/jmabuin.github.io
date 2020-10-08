@@ -1,0 +1,14 @@
+@article{10.1371/journal.pone.0239741,
+    author = {José M. Abuín and Nuno Lopes and Luís Ferreira and Tomás F. Pena and Bertil Schmidt},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Big Data in metagenomics: Apache Spark vs MPI},
+    year = {2020},
+    month = {10},
+    volume = {15},
+    url = {https://doi.org/10.1371/journal.pone.0239741},
+    pages = {1-20},
+    abstract = {The progress of next-generation sequencing has lead to the availability of massive data sets used by a wide range of applications in biology and medicine. This has sparked significant interest in using modern Big Data technologies to process this large amount of information in distributed memory clusters of commodity hardware. Several approaches based on solutions such as Apache Hadoop or Apache Spark, have been proposed. These solutions allow developers to focus on the problem while the need to deal with low level details, such as data distribution schemes or communication patterns among processing nodes, can be ignored. However, performance and scalability are also of high importance when dealing with increasing problems sizes, making in this way the usage of High Performance Computing (HPC) technologies such as the message passing interface (MPI) a promising alternative. Recently, MetaCacheSpark, an Apache Spark based software for detection and quantification of species composition in food samples has been proposed. This tool can be used to analyze high throughput sequencing data sets of metagenomic DNA and allows for dealing with large-scale collections of complex eukaryotic and bacterial reference genome. In this work, we propose MetaCache-MPI, a fast and memory efficient solution for computing clusters which is based on MPI instead of Apache Spark. In order to evaluate its performance a comparison is performed between the original single CPU version of MetaCache, the Spark version and the MPI version we are introducing. Results show that for 32 processes, MetaCache-MPI is 1.65× faster while consuming 48.12% of the RAM memory used by Spark for building a metagenomics database. For querying this database, also with 32 processes, the MPI version is 3.11× faster, while using 55.56% of the memory used by Spark. We conclude that the new MetaCache-MPI version is faster in both building and querying the database and uses less RAM memory, when compared with MetaCacheSpark, while keeping the accuracy of the original implementation.},
+    number = {10},
+    doi = {10.1371/journal.pone.0239741}
+}
