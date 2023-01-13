@@ -5,12 +5,20 @@
     <link>https://jmabuin.github.io/</link>
       <atom:link href="https://jmabuin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose M. Abuin web page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 José M. Abuín</copyright><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 José M. Abuín</copyright><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://jmabuin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jose M. Abuin web page</title>
       <link>https://jmabuin.github.io/</link>
     </image>
+    
+    <item>
+      <title>Personal Bests and Gender</title>
+      <link>https://jmabuin.github.io/publication/21res/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/publication/21res/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Big Data in metagenomics: Apache Spark vs MPI</title>

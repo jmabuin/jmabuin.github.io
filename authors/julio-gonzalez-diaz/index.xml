@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julio González Díaz | Jose M. Abuin web page</title>
+    <link>https://jmabuin.github.io/authors/julio-gonzalez-diaz/</link>
+      <atom:link href="https://jmabuin.github.io/authors/julio-gonzalez-diaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julio González Díaz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 José M. Abuín</copyright><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://jmabuin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Julio González Díaz</title>
+      <link>https://jmabuin.github.io/authors/julio-gonzalez-diaz/</link>
+    </image>
+    
+    <item>
+      <title>Personal Bests and Gender</title>
+      <link>https://jmabuin.github.io/publication/21res/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0200</pubDate>
+      <guid>https://jmabuin.github.io/publication/21res/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
