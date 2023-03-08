@@ -1,266 +1,204 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://jmabuin.github.io/publication_types/2/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/ignacio-palacios-huerta/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://jmabuin.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jmabuin.github.io/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/jose-m.-abuin/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/julio-gonzalez-diaz/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication-type/2/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jmabuin.github.io/publication/21res/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jmabuin.github.io/publication_types/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jmabuin.github.io/publication/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/statistics/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/statistics/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jmabuin.github.io/tags/</loc>
-    <lastmod>2021-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/bertil-schmidt/</loc>
-    <lastmod>2020-10-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication/20plos/</loc>
-    <lastmod>2020-10-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/c&#43;&#43;/</loc>
-    <lastmod>2020-10-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/hpc/</loc>
-    <lastmod>2020-10-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/luis-ferreira/</loc>
-    <lastmod>2020-10-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/metagenomics/</loc>
-    <lastmod>2020-10-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/nuno-lopes/</loc>
-    <lastmod>2020-10-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/tomas-f.-pena/</loc>
-    <lastmod>2020-10-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/cesar-pineiro/</loc>
-    <lastmod>2020-06-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/genomics/</loc>
-    <lastmod>2020-06-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/juan-c.-pichel/</loc>
-    <lastmod>2020-06-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/trees/</loc>
-    <lastmod>2020-06-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication/20vft/</loc>
-    <lastmod>2020-06-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication/20bmc/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/afs/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/all-food-sequencing/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/andreas-hildebrandt/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/andre-muller/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/big-data/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/robin-kobus/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/soren-lukas-hellmann/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/thomas-hankeln/</loc>
-    <lastmod>2020-03-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication_types/1/</loc>
-    <lastmod>2017-11-10T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/hadoop/</loc>
-    <lastmod>2017-11-10T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/nlp/</loc>
-    <lastmod>2017-11-10T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication/17bd/</loc>
-    <lastmod>2017-11-10T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/msa/</loc>
-    <lastmod>2017-06-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/pasta/</loc>
-    <lastmod>2017-06-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication/17bio/</loc>
-    <lastmod>2017-06-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/alignment/</loc>
-    <lastmod>2016-05-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/bwa/</loc>
-    <lastmod>2016-05-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/jorge-amigo/</loc>
-    <lastmod>2016-05-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/tags/spark/</loc>
-    <lastmod>2016-05-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication/16plo/</loc>
-    <lastmod>2016-05-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication/15bio/</loc>
-    <lastmod>2015-08-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/marcos-garcia/</loc>
-    <lastmod>2014-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/pablo-gamallo/</loc>
-    <lastmod>2014-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/publication/14bd/</loc>
-    <lastmod>2014-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jmabuin.github.io/categories/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jmabuin.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication/20plos/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/c-/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/hpc/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/metagenomics/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/genomics/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/trees/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication/20vft/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication/20bmc/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/afs/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/all-food-sequencing/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/big-data/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication-type/1/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/hadoop/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/nlp/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication/17bd/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/msa/</loc>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/pasta/</loc>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication/17bio/</loc>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/alignment/</loc>
+    <lastmod>2016-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/bwa/</loc>
+    <lastmod>2016-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/spark/</loc>
+    <lastmod>2016-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication/16plo/</loc>
+    <lastmod>2016-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication/15bio/</loc>
+    <lastmod>2015-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/publication/14bd/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jmabuin.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
   </url>
-  
-  <url>
-    <loc>https://jmabuin.github.io/talk/</loc>
-  </url>
-  
 </urlset>

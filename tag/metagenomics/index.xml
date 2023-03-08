@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metagenomics | Jose M. Abuin web page</title>
+    <link>https://jmabuin.github.io/tag/metagenomics/</link>
+      <atom:link href="https://jmabuin.github.io/tag/metagenomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Metagenomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmabuin.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Metagenomics</title>
+      <link>https://jmabuin.github.io/tag/metagenomics/</link>
+    </image>
+    
+    <item>
+      <title>Big Data in metagenomics: Apache Spark vs MPI</title>
+      <link>https://jmabuin.github.io/publication/20plos/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmabuin.github.io/publication/20plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Big Data Approach to Metagenomics for All-Food-Sequencing</title>
+      <link>https://jmabuin.github.io/publication/20bmc/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://jmabuin.github.io/publication/20bmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

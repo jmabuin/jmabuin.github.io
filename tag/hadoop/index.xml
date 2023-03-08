@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hadoop | Jose M. Abuin web page</title>
+    <link>https://jmabuin.github.io/tag/hadoop/</link>
+      <atom:link href="https://jmabuin.github.io/tag/hadoop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hadoop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmabuin.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hadoop</title>
+      <link>https://jmabuin.github.io/tag/hadoop/</link>
+    </image>
+    
+    <item>
+      <title>Perldoop2: a Big Data-oriented source-to-source Perl-Java compiler</title>
+      <link>https://jmabuin.github.io/publication/17bd/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jmabuin.github.io/publication/17bd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perldoop: Efficient Execution of Perl Scripts on Hadoop Clusters</title>
+      <link>https://jmabuin.github.io/publication/14bd/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://jmabuin.github.io/publication/14bd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
